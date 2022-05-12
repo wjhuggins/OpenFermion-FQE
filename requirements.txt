@@ -1,7 +1,8 @@
 openfermion>=1.2.0
 # cirq-core~=0.12.0
 # cirq-google~=0.12.0
-git+https://github.com/wjhuggins/Cirq-qcqmc-fix.git@qcqmc-requirements-tweak
+cirq-core
+cirq-google
 jupyter
 numpy>=1.14
 scipy
